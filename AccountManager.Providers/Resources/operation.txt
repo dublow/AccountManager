@@ -1,0 +1,2384 @@
+
+
+Téléchargement du 28/10/2017
+
+
+M.       DELFOUR NICOLAS           
+CCHQ       60284180291
+Solde au 27/10/2017 +711,97 Euros (EUR)
+
+Date          : 25/10
+Libellé       : FNAC MONTPARNASS PARIS 6   24/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 19,99
++--------------------------------------------------------------------+
+Date          : 24/10
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88265039184642/01/UCM932171021/PR
+                EDICAPREDISSIME 9
+                PRIME PERIOD. UCIX 2UCIX 2
+                FR88ZZZ237434
+                00/73001101248/20032017/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 23/10
+Libellé       : LA RECREATION PARIS        20/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,00
++--------------------------------------------------------------------+
+Date          : 23/10
+Libellé       : CORDONNERIE PON PARIS      21/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 42,50
++--------------------------------------------------------------------+
+Date          : 20/10
+Libellé       : BIERRE ET MALT PARIS       19/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 13,00
++--------------------------------------------------------------------+
+Date          : 20/10
+Libellé       : PARIS            19/10 20H12
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 17/10
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                920430343355448240 111
+                MENM192029663841043  IMPOT
+                IR
+                FR46ZZZ005002
+                FR46ZZZ005002M192029663841
+Débit    (EUR): 429,00
++--------------------------------------------------------------------+
+Date          : 17/10
+Libellé       : 1990061 NEONESS-REMB
+                REMISE DE CHEQUE
+Crédit   (EUR): 108,00
++--------------------------------------------------------------------+
+Date          : 16/10
+Libellé       : MONOPRX PARIS              14/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 13,55
++--------------------------------------------------------------------+
+Date          : 16/10
+Libellé       : EL GANSO PARIS             15/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 95,00
++--------------------------------------------------------------------+
+Date          : 13/10
+Libellé       : HALL 1900 PARIS            12/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 35,50
++--------------------------------------------------------------------+
+Date          : 12/10
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88284000000415/01/UCMA32171009/PR
+                EDICACAP DECOUVERTE
+                PRIME PERIOD. UCDEC1UCDEC1
+                FR88ZZZ237434
+                /62000269770/26102013/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 11/10
+Libellé       : LCL PARIS MAC MA 10/10 18H49
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 07/10
+Libellé       : VIREMENT EMIS
+                WEB Boursorama Virement depuis M
+                Virement depuis Ma Banque
+                09/10/2017
+Débit    (EUR): 59,90
++--------------------------------------------------------------------+
+Date          : 07/10
+Libellé       : VIREMENT EMIS
+                WEB Salaga Sergii Virement depui
+                Virement depuis Ma Banque
+                09/10/2017
+Débit    (EUR): 26,15
++--------------------------------------------------------------------+
+Date          : 06/10
+Libellé       : JetBrains Prague           06/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,88
++--------------------------------------------------------------------+
+Date          : 06/10
+Libellé       : JPH LA MOTTE PIC PARIS     05/10
+                PAIEMENT PAR CARTE
+Débit    (EUR): 18,60
++--------------------------------------------------------------------+
+Date          : 05/10
+Libellé       : NEONESS
+                PRELEVMNT
+                NEO-CLI-256145 LOT-1DWsu55E
+                FR52ZZZ532768
+                RUM25614501
+Débit    (EUR): 27,00
++--------------------------------------------------------------------+
+Date          : 05/10
+Libellé       : MENS. P.E.L         10/17
+                VIREMENT EMIS
+Débit    (EUR): 45,00
++--------------------------------------------------------------------+
+Date          : 03/10
+Libellé       : Navigo Annuel - GIE COMUTITRES
+                PRELEVMNT
+                Navigo Annuel
+                FR42ZZZ457385
+                FR42ZZZ457385000020394709-1040058
+Débit    (EUR): 75,20
++--------------------------------------------------------------------+
+Date          : 03/10
+Libellé       : COTIS COMPTE A COMPOSER
+                PRELEVEMENT
+Débit    (EUR): 7,74
++--------------------------------------------------------------------+
+Date          : 30/09
+Libellé       : ACTI POUR 65011025395
+                VIREMENT EMIS
+Débit    (EUR): 100,00
++--------------------------------------------------------------------+
+Date          : 30/09
+Libellé       : VIREMENT EMIS
+                WEB Boursorama Virement depuis M
+Débit    (EUR): 1 400,00
++--------------------------------------------------------------------+
+Date          : 29/09
+Libellé       : FINEXKAP SALAIRES 09/17
+                VIREMENT EN VOTRE FAVEUR
+                SALAIRES 09/17
+                SALAIRES 09/17
+Crédit   (EUR): 2 906,43
++--------------------------------------------------------------------+
+Date          : 29/09
+Libellé       : GOOGLE Google Storage Lond 28/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,99
++--------------------------------------------------------------------+
+Date          : 29/09
+Libellé       : MONOPRIX PARIS             28/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,56
++--------------------------------------------------------------------+
+Date          : 28/09
+Libellé       : L'ECLUSE FRANCO PARIS 08   27/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 23,50
++--------------------------------------------------------------------+
+Date          : 28/09
+Libellé       : MONOPRIX 0304 PARIS2041617 27/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 27,24
++--------------------------------------------------------------------+
+Date          : 27/09
+Libellé       : BIERRE ET MALT PARIS       26/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,50
++--------------------------------------------------------------------+
+Date          : 26/09
+Libellé       : BRIOCHE DOREE PARIS        25/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 2,50
++--------------------------------------------------------------------+
+Date          : 26/09
+Libellé       : SC.PIZZ.VALPONI PARIS      25/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,00
++--------------------------------------------------------------------+
+Date          : 26/09
+Libellé       : SAGEB BVA SHOP TILLE       22/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,90
++--------------------------------------------------------------------+
+Date          : 25/09
+Libellé       : SHOP & RESTAURANT HAN TOKY 21/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 16,14
++--------------------------------------------------------------------+
+Date          : 25/09
+Libellé       : TIAT RETAIL SHOP HANE TOKY 21/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 40,34
++--------------------------------------------------------------------+
+Date          : 25/09
+Libellé       : SHOP & RESTAURANT HAN TOKY 21/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 42,58
++--------------------------------------------------------------------+
+Date          : 25/09
+Libellé       : UBER 75 PARIS              21/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 32,50
++--------------------------------------------------------------------+
+Date          : 25/09
+Libellé       : OPERATION CARTE HORS UE
+                PRELEVEMENT
+Débit    (EUR): 1,06
++--------------------------------------------------------------------+
+Date          : 25/09
+Libellé       : OPERATION CARTE HORS UE
+                PRELEVEMENT
+Débit    (EUR): 0,40
++--------------------------------------------------------------------+
+Date          : 25/09
+Libellé       : OPERATION CARTE HORS UE
+                PRELEVEMENT
+Débit    (EUR): 1,01
++--------------------------------------------------------------------+
+Date          : 22/09
+Libellé       : ARTNSHELTER TOKYO          20/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 58,84
++--------------------------------------------------------------------+
+Date          : 22/09
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88265039184642/01/UCM932170921/PR
+                EDICAPREDISSIME 9
+                PRIME PERIOD. UCIX 2UCIX 2
+                FR88ZZZ237434
+                00/73001101248/20032017/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 22/09
+Libellé       : OPERATION CARTE HORS UE
+                PRELEVEMENT
+Débit    (EUR): 1,47
++--------------------------------------------------------------------+
+Date          : 18/09
+Libellé       : ENET KYOTO                 15/09
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 229,80
++--------------------------------------------------------------------+
+Date          : 18/09
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                920430343355448240 111
+                MENM192029663841043  IMPOT
+                IR
+                FR46ZZZ005002
+                FR46ZZZ005002M192029663841
+Débit    (EUR): 429,00
++--------------------------------------------------------------------+
+Date          : 18/09
+Libellé       : OPERATION CARTE HORS UE
+                PRELEVEMENT
+Débit    (EUR): 3,00
++--------------------------------------------------------------------+
+Date          : 12/09
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88284000000415/01/UCMA32170909/PR
+                EDICACAP DECOUVERTE
+                PRIME PERIOD. UCDEC1UCDEC1
+                FR88ZZZ237434
+                /62000269770/26102013/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 08/09
+Libellé       : AOR25601MCDOROI1 ROISSY CD 07/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,10
++--------------------------------------------------------------------+
+Date          : 07/09
+Libellé       : JetBrains Prague           06/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,88
++--------------------------------------------------------------------+
+Date          : 07/09
+Libellé       : ATELIER DU MARCH PARIS 17  06/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 06/09
+Libellé       : GRANDES CAVES PARIS        05/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,00
++--------------------------------------------------------------------+
+Date          : 06/09
+Libellé       : HSBC AG 115      06/09 09H13
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : BANQUE TRAVELEX BOULOGNE B 04/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 529,98
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : HSBC AG 115      04/09 13H47
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : NEONESS
+                PRELEVMNT
+                FR52ZZZ532768
+                RUM25614501
+Débit    (EUR): 27,00
++--------------------------------------------------------------------+
+Date          : 05/09
+Libellé       : MENS. P.E.L         09/17
+                VIREMENT EMIS
+Débit    (EUR): 45,00
++--------------------------------------------------------------------+
+Date          : 04/09
+Libellé       : SNCF INTERNET PARIS 12     01/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 7,30
++--------------------------------------------------------------------+
+Date          : 04/09
+Libellé       : SNCF INTERNET PARIS 12     03/09
+                PAIEMENT PAR CARTE
+Débit    (EUR): 14,20
++--------------------------------------------------------------------+
+Date          : 04/09
+Libellé       : Navigo Annuel - GIE COMUTITRES
+                PRELEVMNT
+                Navigo Annuel
+                FR42ZZZ457385
+                FR42ZZZ457385000020394709-1040058
+Débit    (EUR): 77,40
++--------------------------------------------------------------------+
+Date          : 04/09
+Libellé       : COTIS COMPTE A COMPOSER
+                PRELEVEMENT
+Débit    (EUR): 7,74
++--------------------------------------------------------------------+
+Date          : 01/09
+Libellé       : TERNES           01/09 07H59
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 31/08
+Libellé       : MONOPRIX 0304 PARIS2041617 30/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 7,55
++--------------------------------------------------------------------+
+Date          : 31/08
+Libellé       : LE TEMPLE PARIS            30/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,00
++--------------------------------------------------------------------+
+Date          : 30/08
+Libellé       : ACTI POUR 65011025395
+                VIREMENT EMIS
+Débit    (EUR): 100,00
++--------------------------------------------------------------------+
+Date          : 30/08
+Libellé       : HSBC AG 115      29/08 13H50
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 30/08
+Libellé       : VIREMENT EMIS
+                WEB Boursorama Virement depuis M
+Débit    (EUR): 1 429,00
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : FINEXKAP
+                VIREMENT EN VOTRE FAVEUR
+                SALAIRES 08/17
+Crédit   (EUR): 3 794,39
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : GOOGLE Google Storage Lond 28/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,99
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : CAFE OZ PARIS 13           28/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,00
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : CAFE OZ PARIS 13           28/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 22,50
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : PIZZERIA VALPONI PARIS     28/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 18,50
++--------------------------------------------------------------------+
+Date          : 29/08
+Libellé       : LCL PARIS BONNE  28/08 13H09
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 28/08
+Libellé       : MONOPRIX 0304 PARIS2041617 25/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 2,19
++--------------------------------------------------------------------+
+Date          : 28/08
+Libellé       : ADC AVE MOZART PARIS       26/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 16,50
++--------------------------------------------------------------------+
+Date          : 28/08
+Libellé       : DECATHLON PARIS            26/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 24,99
++--------------------------------------------------------------------+
+Date          : 28/08
+Libellé       : VELIB INTERNET NEUILLY SUR 25/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 29,00
++--------------------------------------------------------------------+
+Date          : 24/08
+Libellé       : CARREFOURMARKET PARIS      23/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 21,60
++--------------------------------------------------------------------+
+Date          : 24/08
+Libellé       : MONOPRIX 0304 PARIS2041617 23/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,27
++--------------------------------------------------------------------+
+Date          : 24/08
+Libellé       : HSBC AG 115      24/08 09H24
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 23/08
+Libellé       : M HEDOUX ROMAIN JR PASS
+                VIREMENT EN VOTRE FAVEUR
+                JR PASS
+                JR PASS
+Crédit   (EUR): 342,00
++--------------------------------------------------------------------+
+Date          : 23/08
+Libellé       : VIVRE LE JAPON PARIS       22/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 684,00
++--------------------------------------------------------------------+
+Date          : 23/08
+Libellé       : MONOPRIX 1209 PARIS2042006 22/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 29,46
++--------------------------------------------------------------------+
+Date          : 23/08
+Libellé       : HSBC AG 115      22/08 18H22
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 22/08
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88265039184642/01/UCM932170821/PR
+                EDICAPREDISSIME 9
+                PRIME PERIOD. UCIX 2UCIX 2
+                FR88ZZZ237434
+                00/73001101248/20032017/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 21/08
+Libellé       : GOOGLE Le Figaro 75 PARIS  18/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 21/08
+Libellé       : ELYSEES 2        21/08 00H21
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 21/08
+Libellé       : PLEAUX           20/08 11H13
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 17/08
+Libellé       : PIZZERIA VALPONI PARIS     16/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 16,00
++--------------------------------------------------------------------+
+Date          : 17/08
+Libellé       : AMAZON PAYMENTS PARIS24415 10/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 33,21
++--------------------------------------------------------------------+
+Date          : 17/08
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                920430343355448240 111
+                MENM192029663841043  IMPOT
+                IR
+                FR46ZZZ005002
+                FR46ZZZ005002M192029663841
+Débit    (EUR): 429,00
++--------------------------------------------------------------------+
+Date          : 16/08
+Libellé       : LE CORSAIRE L ILE D YEU    14/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 24,00
++--------------------------------------------------------------------+
+Date          : 16/08
+Libellé       : RELAY 341206PX NANTES      15/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,90
++--------------------------------------------------------------------+
+Date          : 16/08
+Libellé       : ST GILLES CROI   12/08 10H40
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 14/08
+Libellé       : DELIVEROOFR 8778877815     11/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,50
++--------------------------------------------------------------------+
+Date          : 14/08
+Libellé       : GOOGLE Le Figaro 75 PARIS  11/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 14/08
+Libellé       : CASINO L'ILE D'YEU         13/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 8,00
++--------------------------------------------------------------------+
+Date          : 11/08
+Libellé       : UBER BV 800-592-8996       10/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,00
++--------------------------------------------------------------------+
+Date          : 11/08
+Libellé       : LE FAUBOURG 34 PARIS       10/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 22,00
++--------------------------------------------------------------------+
+Date          : 11/08
+Libellé       : UBER 75 PARIS              10/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 9,11
++--------------------------------------------------------------------+
+Date          : 11/08
+Libellé       : BURGER KING PARIS          10/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,50
++--------------------------------------------------------------------+
+Date          : 10/08
+Libellé       : FUT ET A MESURE PARIS      09/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 30,00
++--------------------------------------------------------------------+
+Date          : 10/08
+Libellé       : FUT ET A MESURE PARIS      09/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 30,00
++--------------------------------------------------------------------+
+Date          : 10/08
+Libellé       : TABAC DU PETIT D 75 PARIS  09/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 21,00
++--------------------------------------------------------------------+
+Date          : 10/08
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88284000000415/01/UCMA32170809/PR
+                EDICACAP DECOUVERTE
+                PRIME PERIOD. UCDEC1UCDEC1
+                FR88ZZZ237434
+                /62000269770/26102013/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 08/08
+Libellé       : WAKO PARIS                 07/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,50
++--------------------------------------------------------------------+
+Date          : 08/08
+Libellé       : SALON DE PROVE   05/08 10H19
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 70,00
++--------------------------------------------------------------------+
+Date          : 07/08
+Libellé       : JetBrains Prague           06/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,88
++--------------------------------------------------------------------+
+Date          : 07/08
+Libellé       : GOOGLE Le Figaro 75 PARIS  04/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 07/08
+Libellé       : LE DIPLOMATE SALON DE PROV 05/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 14,00
++--------------------------------------------------------------------+
+Date          : 07/08
+Libellé       : L'OCCITANE SALON DE PROVE  05/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 36,50
++--------------------------------------------------------------------+
+Date          : 07/08
+Libellé       : MRW PARIS MONTPA           04/08
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,89
++--------------------------------------------------------------------+
+Date          : 07/08
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT ASSURANCE TOUS MOBILES 7078
+                781907
+                FR41ZZZ272230
+                000000000000000000005320101907PCK
+Débit    (EUR): 9,98
++--------------------------------------------------------------------+
+Date          : 07/08
+Libellé       : NEONESS
+                PRELEVMNT
+                FR52ZZZ532768
+                RUM25614501
+Débit    (EUR): 27,00
++--------------------------------------------------------------------+
+Date          : 05/08
+Libellé       : MENS. P.E.L         08/17
+                VIREMENT EMIS
+Débit    (EUR): 45,00
++--------------------------------------------------------------------+
+Date          : 03/08
+Libellé       : Navigo Annuel - GIE COMUTITRES
+                PRELEVMNT
+                Navigo Annuel
+                FR42ZZZ457385
+                FR42ZZZ457385000020394709-1040058
+Débit    (EUR): 73,00
++--------------------------------------------------------------------+
+Date          : 03/08
+Libellé       : COTIS COMPTE A COMPOSER
+                PRELEVEMENT
+Débit    (EUR): 7,74
++--------------------------------------------------------------------+
+Date          : 02/08
+Libellé       : HSBC AG 115      01/08 17H56
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 01/08
+Libellé       : ACTI POUR 65011025395
+                VIREMENT EMIS
+Débit    (EUR): 100,00
++--------------------------------------------------------------------+
+Date          : 01/08
+Libellé       : VIREMENT EMIS
+                WEB Salaga Sergii Virement depui
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : CIC EPARGNE SALARIALE 20817K0015
+                VIREMENT EN VOTRE FAVEUR
+                RETRAIT EP SAL EA1511   CICES
+                20817K0015305O00
+Crédit   (EUR): 853,35
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : GOOGLE Google Storage Lond 28/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,99
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : GOOGLE London              29/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : CB08344 GAP PARIS          29/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 35,95
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : KAFFEEHAUS PARIS           29/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 9,80
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : BOULANGERIE PAIN PARIS     30/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,20
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : UBER 75 PARIS              28/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,70
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : LE BON MARCHE PARIS        29/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 87,00
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : AIGLE INTL SA PARIS        29/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 61,20
++--------------------------------------------------------------------+
+Date          : 31/07
+Libellé       : VIREMENT EMIS
+                WEB Boursorama
+Débit    (EUR): 1 400,00
++--------------------------------------------------------------------+
+Date          : 28/07
+Libellé       : FINEXKAP
+                VIREMENT EN VOTRE FAVEUR
+                SALAIRES 07/17
+Crédit   (EUR): 3 799,63
++--------------------------------------------------------------------+
+Date          : 28/07
+Libellé       : OCTOPUSS PARIS             27/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 28/07
+Libellé       : LCL PARIS GUY MO 27/07 20H54
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 27/07
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                600079221889TLR1792865178430    TLR
+                SEPA DGFIP IMPOT TH
+                FR46ZZZ005002
+                NNFR46ZZZ0050021792865178430R221889
+Débit    (EUR): 137,00
++--------------------------------------------------------------------+
+Date          : 27/07
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                600079221885TLR1792865178331    TLR
+                SEPA DGFIP IMPOT TH
+                FR46ZZZ005002
+                NNFR46ZZZ0050021792865178331R221885
+Débit    (EUR): 529,00
++--------------------------------------------------------------------+
+Date          : 26/07
+Libellé       : L'IVRESS PARIS             25/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 14,90
++--------------------------------------------------------------------+
+Date          : 26/07
+Libellé       : L'IVRESS PARIS             25/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,90
++--------------------------------------------------------------------+
+Date          : 26/07
+Libellé       : L'IVRESS PARIS             25/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 14,90
++--------------------------------------------------------------------+
+Date          : 26/07
+Libellé       : L'IVRESS PARIS             25/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,90
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : GOOGLE Le Figaro 75 PARIS  21/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : MC DONALD'S 01 GAILLAC     22/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,30
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : BIERRE ET MALT PARIS       21/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 19,40
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : BIG FERNAND PARIS          21/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,00
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : G7 CLICHY                  21/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 9,20
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : HSBC AG 115      21/07 13H33
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : GAILLAC ST EXUPE 22/07 11H29
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : HSBC AG 115      24/07 09H31
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 24/07
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88265039184642/01/UCM932170721/PR
+                EDICAPREDISSIME 9
+                PRIME PERIOD. UCIX 2UCIX 2
+                FR88ZZZ237434
+                00/73001101248/20032017/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 21/07
+Libellé       : MAKI PARIS 09              20/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 49,00
++--------------------------------------------------------------------+
+Date          : 18/07
+Libellé       : TERNES           17/07 19H16
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 18/07
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                920430343355448240 111
+                MENM192029663841043  IMPOT
+                IR
+                FR46ZZZ005002
+                FR46ZZZ005002M192029663841
+Débit    (EUR): 429,00
++--------------------------------------------------------------------+
+Date          : 17/07
+Libellé       : GOOGLE London              15/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 17/07
+Libellé       : FRANPRIX PARIS 17          15/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,07
++--------------------------------------------------------------------+
+Date          : 17/07
+Libellé       : AU GARDENIA PARIS 07       13/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 49,00
++--------------------------------------------------------------------+
+Date          : 17/07
+Libellé       : FABLES DE LAFON PARIS      15/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 116,00
++--------------------------------------------------------------------+
+Date          : 17/07
+Libellé       : APM PARIS COM              13/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 65,00
++--------------------------------------------------------------------+
+Date          : 17/07
+Libellé       : LES BELLES ENVI PARIS      15/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 16/07
+Libellé       : VIREMENT EN VOTRE FAVEUR
+                DE DELFOUR NICOLAS
+Crédit   (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 13/07
+Libellé       : PIZZERIA VALPONI PARIS     12/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,00
++--------------------------------------------------------------------+
+Date          : 12/07
+Libellé       : MOTTE PICQUET PARIS        11/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,90
++--------------------------------------------------------------------+
+Date          : 11/07
+Libellé       : MONOPRIX 0304 PARIS2041617 10/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,94
++--------------------------------------------------------------------+
+Date          : 11/07
+Libellé       : PETITE MARQUISE PARIS      10/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 3,00
++--------------------------------------------------------------------+
+Date          : 11/07
+Libellé       : LR CHOCOLATIER PARIS 17    10/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 46,00
++--------------------------------------------------------------------+
+Date          : 11/07
+Libellé       : L ILE D YEU      08/07 09H24
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 11/07
+Libellé       : ILE D YEU        09/07 16H47
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 50,00
++--------------------------------------------------------------------+
+Date          : 11/07
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88284000000415/01/UCMA32170709/PR
+                EDICACAP DECOUVERTE
+                PRIME PERIOD. UCDEC1UCDEC1
+                FR88ZZZ237434
+                /62000269770/26102013/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 10/07
+Libellé       : 2556122
+                CHEQUE EMIS
+Débit    (EUR): 54,00
++--------------------------------------------------------------------+
+Date          : 10/07
+Libellé       : GOOGLE London              08/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 10/07
+Libellé       : SNCF INTERNET PARIS 12     09/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 35,00
++--------------------------------------------------------------------+
+Date          : 10/07
+Libellé       : PIZZERIA VALPONI PARIS     07/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 16,00
++--------------------------------------------------------------------+
+Date          : 10/07
+Libellé       : HSBC AG 115      07/07 18H46
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 07/07
+Libellé       : PARIS            05/07 23H33
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 60,00
++--------------------------------------------------------------------+
+Date          : 07/07
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT ASSURANCE TOUS MOBILES 7078
+                781907
+                FR41ZZZ272230
+                000000000000000000005320101907PCK
+Débit    (EUR): 9,98
++--------------------------------------------------------------------+
+Date          : 06/07
+Libellé       : Burger King PARIS          06/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,20
++--------------------------------------------------------------------+
+Date          : 06/07
+Libellé       : VMAX PARIS                 05/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 18,50
++--------------------------------------------------------------------+
+Date          : 06/07
+Libellé       : VMAX PARIS                 05/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 30,00
++--------------------------------------------------------------------+
+Date          : 06/07
+Libellé       : FRANCHISE INTERETS DEBITEURS
+                REGUL OPE DEBITRICES
+Crédit   (EUR): 2,45
++--------------------------------------------------------------------+
+Date          : 05/07
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT MULTIRISQUES HABITATION 727
+                1273907
+                FR41ZZZ272230
+                00000000000000000000005665726907PCK
+Débit    (EUR): 9,12
++--------------------------------------------------------------------+
+Date          : 05/07
+Libellé       : NEONESS
+                PRELEVMNT
+                FR52ZZZ532768
+                RUM25614501
+Débit    (EUR): 27,00
++--------------------------------------------------------------------+
+Date          : 05/07
+Libellé       : MENS. P.E.L         07/17
+                VIREMENT EMIS
+Débit    (EUR): 45,00
++--------------------------------------------------------------------+
+Date          : 04/07
+Libellé       : MONOPRIX 0304 PARIS2041617 03/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,69
++--------------------------------------------------------------------+
+Date          : 03/07
+Libellé       : GOOGLE Le Figaro 75 PARIS  30/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 03/07
+Libellé       : BIG FERNAND PARIS          30/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,00
++--------------------------------------------------------------------+
+Date          : 03/07
+Libellé       : BIERRE ET MALT PARIS       30/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 30,36
++--------------------------------------------------------------------+
+Date          : 03/07
+Libellé       : BIJOU BAR CONFLANS STE HON 01/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 30,20
++--------------------------------------------------------------------+
+Date          : 03/07
+Libellé       : FRANPRIX BRADIS CONFLANS S 01/07
+                PAIEMENT PAR CARTE
+Débit    (EUR): 13,89
++--------------------------------------------------------------------+
+Date          : 03/07
+Libellé       : Navigo Annuel - GIE COMUTITRES
+                PRELEVMNT
+                Navigo Annuel
+                FR42ZZZ457385
+                FR42ZZZ457385000020394709-1040058
+Débit    (EUR): 73,00
++--------------------------------------------------------------------+
+Date          : 03/07
+Libellé       : COTIS COMPTE A COMPOSER
+                PRELEVEMENT
+Débit    (EUR): 7,74
++--------------------------------------------------------------------+
+Date          : 03/07
+Libellé       : INT DEB 2 TRIM 17 TAEG=15,15%
+                PRELEVEMENT
+Débit    (EUR): 2,45
++--------------------------------------------------------------------+
+Date          : 01/07
+Libellé       : VIREMENT EMIS
+                WEB Boursorama appartement
+Débit    (EUR): 1 400,00
++--------------------------------------------------------------------+
+Date          : 01/07
+Libellé       : VIREMENT EMIS
+                WEB Salaga Sergii uber
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 30/06
+Libellé       : ACTI POUR 65011025395
+                VIREMENT EMIS
+Débit    (EUR): 100,00
++--------------------------------------------------------------------+
+Date          : 30/06
+Libellé       : VIREMENT EN VOTRE FAVEUR
+                0216974 PACIFICA
+Crédit   (EUR): 10,86
++--------------------------------------------------------------------+
+Date          : 30/06
+Libellé       : SFIZIO MADE IN SICILY CATA 29/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 32,40
++--------------------------------------------------------------------+
+Date          : 29/06
+Libellé       : AVAILPRO VK71801SLLFT0J01
+                VIREMENT EN VOTRE FAVEUR
+                AVAILPRO SDTC
+                VK71801SLLFT0J01
+Crédit   (EUR): 4 611,87
++--------------------------------------------------------------------+
+Date          : 29/06
+Libellé       : GOOGLE Google Storage Lond 28/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,99
++--------------------------------------------------------------------+
+Date          : 29/06
+Libellé       : VIREMENT EMIS
+                WEB Marie Alicia Tardy rembourse
+Débit    (EUR): 736,00
++--------------------------------------------------------------------+
+Date          : 27/06
+Libellé       : OW 5626 PAUL3 ORLY AEROGAR 26/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 7,60
++--------------------------------------------------------------------+
+Date          : 27/06
+Libellé       : WECAB CLICHY               25/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 25,00
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : GOOGLE London              24/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : UBER BV 800-592-8996       24/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,90
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : CARREFOURMARKET CONFLANS S 24/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 32,67
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : SUMUP *LES BRUNCHS D PARIS 25/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,00
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : FIVE GUYS 1 PARIS          25/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 8,50
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : CAFE GROS PARIS            25/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 24,50
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : LE REILHAC PARIS           25/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,60
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : BIERRE ET MALT PARIS       23/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 100,00
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : QUICK PARIS9XXA122/        24/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,95
++--------------------------------------------------------------------+
+Date          : 26/06
+Libellé       : LCL PARIS BONNE  23/06 17H52
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 23/06
+Libellé       : APEROCK PARIS              22/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 23/06
+Libellé       : UBER 75 PARIS              22/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 8,23
++--------------------------------------------------------------------+
+Date          : 23/06
+Libellé       : LCL PARIS BONNE  22/06 15H05
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 22/06
+Libellé       : CARREFOUR DESNOU PARIS 15  21/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 3,25
++--------------------------------------------------------------------+
+Date          : 22/06
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88265039184642/01/UCM932170621/PR
+                EDICAPREDISSIME 9
+                PRIME PERIOD. UCIX 2UCIX 2
+                FR88ZZZ237434
+                00/73001101248/20032017/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 21/06
+Libellé       : LE MANOIR PARIS            20/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 13,40
++--------------------------------------------------------------------+
+Date          : 21/06
+Libellé       : LCL PARIS BONNE  20/06 18H17
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 20/06
+Libellé       : BIG FERNAND PARIS          19/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 16,00
++--------------------------------------------------------------------+
+Date          : 20/06
+Libellé       : L'IVRESS PARIS             19/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,90
++--------------------------------------------------------------------+
+Date          : 20/06
+Libellé       : LCL PARIS BONNE  19/06 17H21
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 19/06
+Libellé       : ALBERT STOOPS GERANCE 697090
+                VIREMENT EN VOTRE FAVEUR
+                MR DELFOUR Nicolas - MR DELFOUR Nic
+                olas
+                697090
+Crédit   (EUR): 503,75
++--------------------------------------------------------------------+
+Date          : 19/06
+Libellé       : GOOGLE London              17/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 19/06
+Libellé       : SNCF INTERNET PARIS 12     18/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 61,00
++--------------------------------------------------------------------+
+Date          : 19/06
+Libellé       : U EXPRESS 15 PLEAUX        17/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,83
++--------------------------------------------------------------------+
+Date          : 16/06
+Libellé       : U EXPRESS 15 PLEAUX        15/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 8,57
++--------------------------------------------------------------------+
+Date          : 16/06
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                920430343355448240 111
+                MENM192029663841043  IMPOT
+                IR
+                FR46ZZZ005002
+                FR46ZZZ005002M192029663841
+Débit    (EUR): 429,00
++--------------------------------------------------------------------+
+Date          : 15/06
+Libellé       : VIREMENT EN VOTRE FAVEUR
+                DE DELFOUR NICOLAS
+Crédit   (EUR): 100,00
++--------------------------------------------------------------------+
+Date          : 14/06
+Libellé       : U EXPRESS 15 PLEAUX        13/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 16,75
++--------------------------------------------------------------------+
+Date          : 13/06
+Libellé       : VIREMENT EMIS
+                WEB Romain Hedoux
+Débit    (EUR): 156,50
++--------------------------------------------------------------------+
+Date          : 13/06
+Libellé       : GOOGLE London              12/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 2,99
++--------------------------------------------------------------------+
+Date          : 13/06
+Libellé       : MojangAB 75 PARIS          12/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 23,95
++--------------------------------------------------------------------+
+Date          : 13/06
+Libellé       : PLEAUX           12/06 19H50
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : GOOGLE Le Figaro 75 PARIS  09/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : FUXIA EPICERIE PARIS       09/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : LPA ST JEAN 709 LYON 5EME  10/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,40
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : LABORATOIRE BIOL PARIS     09/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 14,85
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : KAFFEEHAUS PARIS           09/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,90
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : FNAC TERNES PARIS 17       09/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 9,80
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : REGIE BPNL AUT CALUIRE ET  11/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 2,10
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : LCL PARIS BONNE  09/06 17H49
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88284000000415/01/UCMA32170609/PR
+                EDICACAP DECOUVERTE
+                PRIME PERIOD. UCDEC1UCDEC1
+                FR88ZZZ237434
+                /62000269770/26102013/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 12/06
+Libellé       : EDF clients particuliers
+                PRELEVMNT
+                Numero de client : 6008318574 - Num
+                ero de compte : xxx 004024615452
+                FR47EDF001007
+                MM9760083185740001
+Débit    (EUR): 90,00
++--------------------------------------------------------------------+
+Date          : 08/06
+Libellé       : ISOMAX PARIS               07/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,00
++--------------------------------------------------------------------+
+Date          : 08/06
+Libellé       : SNCF INTERNET PARIS 9      07/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 48,20
++--------------------------------------------------------------------+
+Date          : 08/06
+Libellé       : SNCF INTERNET PARIS 9      07/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 33,80
++--------------------------------------------------------------------+
+Date          : 08/06
+Libellé       : LA POSTE BOUTIQU PARIS CED 07/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,97
++--------------------------------------------------------------------+
+Date          : 08/06
+Libellé       : LA POSTE BOUTIQU PARIS CED 07/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,97
++--------------------------------------------------------------------+
+Date          : 07/06
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT ASSURANCE TOUS MOBILES 7078
+                781907
+                FR41ZZZ272230
+                000000000000000000005320101907PCK
+Débit    (EUR): 9,98
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : VIREMENT EMIS
+                WEB Boursorama Virement depuis M
+Débit    (EUR): 1 400,00
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : CARREFOURMARKET CONFLANS S 05/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,91
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : MAMIE BURGER PARIS         02/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,00
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : AU BON COIN PARIS 17       02/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 14,00
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : BATTLING CLUB PARIS        02/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,00
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : LA MICHODIERE PARIS        03/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 38,00
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : GOOGLE Le Figaro 75 PARIS  02/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT MULTIRISQUES HABITATION 727
+                1273907
+                FR41ZZZ272230
+                00000000000000000000005665726907PCK
+Débit    (EUR): 9,12
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : NEONESS
+                PRELEVMNT
+                FR52ZZZ532768
+                RUM25614501
+Débit    (EUR): 27,00
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : Navigo Annuel - GIE COMUTITRES
+                PRELEVMNT
+                Navigo Annuel
+                FR42ZZZ457385
+                FR42ZZZ457385000020394709-1040058
+Débit    (EUR): 73,00
++--------------------------------------------------------------------+
+Date          : 06/06
+Libellé       : COTIS COMPTE A COMPOSER
+                PRELEVEMENT
+Débit    (EUR): 7,74
++--------------------------------------------------------------------+
+Date          : 05/06
+Libellé       : MENS. P.E.L         06/17
+                VIREMENT EMIS
+Débit    (EUR): 45,00
++--------------------------------------------------------------------+
+Date          : 02/06
+Libellé       : POINTE DU GROIN PARIS      01/06
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 31/05
+Libellé       : PARIS            30/05 19H38
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 80,00
++--------------------------------------------------------------------+
+Date          : 30/05
+Libellé       : AVAILPRO SAS 2017-05-31 VIR DELF
+                VIREMENT EN VOTRE FAVEUR
+                SIRIONA
+                2017-05-31  VIR DELFOUR
+Crédit   (EUR): 2 983,71
++--------------------------------------------------------------------+
+Date          : 30/05
+Libellé       : LCL PARIS BONNE  29/05 12H10
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 29/05
+Libellé       : GOOGLE Google Storage Lond 28/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,99
++--------------------------------------------------------------------+
+Date          : 29/05
+Libellé       : BCA CARIGE TAVARNELLE      25/05
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 70,00
++--------------------------------------------------------------------+
+Date          : 29/05
+Libellé       : GOOGLE Le Figaro 75 PARIS  26/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 29/05
+Libellé       : Orange
+                PRELEVMNT
+                Votre abonnement mobile: 06XXXXX532
+                (facture: 5560805154)
+                FR18ZZZ002305
+                M0032121110
+Débit    (EUR): 62,99
++--------------------------------------------------------------------+
+Date          : 26/05
+Libellé       : FNAC TERNES PARIS 17       24/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 7,90
++--------------------------------------------------------------------+
+Date          : 26/05
+Libellé       : RELAY 362079PX ORLY AEROGA 24/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 7,80
++--------------------------------------------------------------------+
+Date          : 26/05
+Libellé       : FARAGO ECURIES PARIS       24/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,00
++--------------------------------------------------------------------+
+Date          : 26/05
+Libellé       : MAISON WHISKY PARIS        24/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 40,40
++--------------------------------------------------------------------+
+Date          : 26/05
+Libellé       : RATP PARIS CEDEX 12        24/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 27,90
++--------------------------------------------------------------------+
+Date          : 24/05
+Libellé       : ELECTRICITE DE FRANCE )028481548
+                VIREMENT EN VOTRE FAVEUR
+                )028481548425 11405 1   EDF VRS REM
+                BOURSEMENT COMPTE CREDITEUR
+                )028481548425 11405 1   EDF VRS
+Crédit   (EUR): 63,65
++--------------------------------------------------------------------+
+Date          : 24/05
+Libellé       : DEVRED 195 PARIS           23/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 9,99
++--------------------------------------------------------------------+
+Date          : 23/05
+Libellé       : PARIS GAMBETTA 6     23/05 18H43
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 23/05
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88265039184642/01/UCM932170521/PR
+                EDICAPREDISSIME 9
+                PRIME PERIOD. UCIX 2UCIX 2
+                FR88ZZZ237434
+                00/73001101248/20032017/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 22/05
+Libellé       : LA POSTE BOUTIQU PARIS CED 20/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 7,90
++--------------------------------------------------------------------+
+Date          : 22/05
+Libellé       : LA POSTE BOUTIQU PARIS CED 20/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 38,50
++--------------------------------------------------------------------+
+Date          : 22/05
+Libellé       : GOOGLE Le Figaro 75 PARIS  19/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,99
++--------------------------------------------------------------------+
+Date          : 22/05
+Libellé       : UBER 75 PARIS              19/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,00
++--------------------------------------------------------------------+
+Date          : 22/05
+Libellé       : MEUBLES CJSM PARIS         20/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 88,50
++--------------------------------------------------------------------+
+Date          : 19/05
+Libellé       : UBER 75 PARIS              18/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,60
++--------------------------------------------------------------------+
+Date          : 18/05
+Libellé       : LE DEJAZET PARIS 3         17/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 21,00
++--------------------------------------------------------------------+
+Date          : 18/05
+Libellé       : L'ORANGE MECANIQ PARIS     18/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,00
++--------------------------------------------------------------------+
+Date          : 18/05
+Libellé       : MARTIN PARIS               17/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,00
++--------------------------------------------------------------------+
+Date          : 18/05
+Libellé       : SC.MARTIN PARIS            17/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,00
++--------------------------------------------------------------------+
+Date          : 18/05
+Libellé       : VORWERK FRANCE NANTES      16/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 24,00
++--------------------------------------------------------------------+
+Date          : 18/05
+Libellé       : MARTIN PARIS               17/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 18/05
+Libellé       : BIERRE ET MALT PARIS       17/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 28,00
++--------------------------------------------------------------------+
+Date          : 18/05
+Libellé       : TERNES           18/05 01H49
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 50,00
++--------------------------------------------------------------------+
+Date          : 17/05
+Libellé       : MONOPRIX 1209 PARIS2042006 16/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 8,32
++--------------------------------------------------------------------+
+Date          : 17/05
+Libellé       : EDF clients particuliers
+                PRELEVMNT
+                Numero de client : 6008318574 - Num
+                ero de compte : xxx 004024615452
+                FR47EDF001007
+                MM9760083185740001
+Débit    (EUR): 55,27
++--------------------------------------------------------------------+
+Date          : 16/05
+Libellé       : FRANPRIX PARIS             15/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 14,11
++--------------------------------------------------------------------+
+Date          : 16/05
+Libellé       : MGP*LEETCHI.COM L - 2449 L 15/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 16/05
+Libellé       : ZOCO PARIS                 15/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 8,00
++--------------------------------------------------------------------+
+Date          : 16/05
+Libellé       : ZOCO PARIS                 15/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,00
++--------------------------------------------------------------------+
+Date          : 16/05
+Libellé       : LE CAFE PONSE PARIS 17     13/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 21,00
++--------------------------------------------------------------------+
+Date          : 16/05
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                920430343355448240 111
+                MENM192029663841043  IMPOT
+                IR
+                FR46ZZZ005002
+                FR46ZZZ005002M192029663841
+Débit    (EUR): 429,00
++--------------------------------------------------------------------+
+Date          : 16/05
+Libellé       : EDF clients particuliers
+                PRELEVMNT
+                Numero de client : 6008318574 - Num
+                ero de compte : xxx 004021510590
+                FR47EDF001007
+                MM9760083185740001
+Débit    (EUR): 35,00
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : MORNING v Sw1FZMzYvO nicolas.dfr
+                VIREMENT EN VOTRE FAVEUR
+                v Sw1FZMzYvO nicolas.dfr gmail.com
+                v Sw1FZMzYvO nicolas.dfr gmail.com
+Crédit   (EUR): 460,00
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : GOOGLE Le Figaro London    13/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 2,99
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : LP PONCELET PARIS 17       13/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 13,57
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : LOU YETU PARIS 3           12/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 49,00
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : BOUT.DES PRUNEA PARIS      12/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,00
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : FRANPRIX PARIS             13/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 7,20
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : FRANPRIX PARIS             13/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 18,10
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : NYSA PARIS                 12/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,50
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : AU FOU RIRE PARIS          12/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 28,10
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : AU FOU RIRE PARIS          12/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 28,10
++--------------------------------------------------------------------+
+Date          : 15/05
+Libellé       : PDB 3641 BONNE N PARIS     12/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,15
++--------------------------------------------------------------------+
+Date          : 12/05
+Libellé       : POMZE PARIS                11/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 106,40
++--------------------------------------------------------------------+
+Date          : 12/05
+Libellé       : BOULOGNE BILL    11/05 18H26
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 11/05
+Libellé       : CHEERZ 8778877815          10/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 4,50
++--------------------------------------------------------------------+
+Date          : 11/05
+Libellé       : M & CIE DECO ORVAULT       10/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 367,00
++--------------------------------------------------------------------+
+Date          : 11/05
+Libellé       : Burger King PARIS          10/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 8,50
++--------------------------------------------------------------------+
+Date          : 11/05
+Libellé       : LCL PARIS BONNE  10/05 19H19
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 10/05
+Libellé       : ENI9804SAULCE              09/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,00
++--------------------------------------------------------------------+
+Date          : 10/05
+Libellé       : BEAUNE EST MERCEUIL        09/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,00
++--------------------------------------------------------------------+
+Date          : 10/05
+Libellé       : CLOS L'ABBE DUBOIS ST REME 09/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 36,50
++--------------------------------------------------------------------+
+Date          : 10/05
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88284000000415/01/UCMA32170509/PR
+                EDICACAP DECOUVERTE
+                PRIME PERIOD. UCDEC1UCDEC1
+                FR88ZZZ237434
+                /62000269770/26102013/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : GOOGLE London              06/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 2,99
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : FNAC TERNES PARIS 17       05/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,99
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : STARBUCKS COFFEE PARIS     06/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,55
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : SUPER U 07 RUOMS           06/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 184,20
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : SHELL 8173 ST ALBAIN       06/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 3,60
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : MC DONALDS PONT            06/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,40
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : LE TIPI SALAVAS            07/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 26,80
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : SARL 2TAZ SALAVAS          07/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,20
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : SAS GOS VALLON PONT D      07/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 38,20
++--------------------------------------------------------------------+
+Date          : 09/05
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT ASSURANCE TOUS MOBILES 7078
+                781907
+                FR41ZZZ272230
+                000000000000000000005320101907PCK
+Débit    (EUR): 9,98
++--------------------------------------------------------------------+
+Date          : 05/05
+Libellé       : PAPACIONU AND CO PARIS     04/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,50
++--------------------------------------------------------------------+
+Date          : 05/05
+Libellé       : ChauffeurPrive 75 PARIS    04/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 9,85
++--------------------------------------------------------------------+
+Date          : 05/05
+Libellé       : LCL PARIS BONNE  04/05 13H38
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 05/05
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT MULTIRISQUES HABITATION 727
+                1273907
+                FR41ZZZ272230
+                00000000000000000000005665726907PCK
+Débit    (EUR): 9,12
++--------------------------------------------------------------------+
+Date          : 05/05
+Libellé       : NEONESS
+                PRELEVMNT
+                FR52ZZZ532768
+                RUM25614501
+Débit    (EUR): 27,00
++--------------------------------------------------------------------+
+Date          : 05/05
+Libellé       : MENS. P.E.L         05/17
+                VIREMENT EMIS
+Débit    (EUR): 45,00
++--------------------------------------------------------------------+
+Date          : 04/05
+Libellé       : 2556121
+                CHEQUE EMIS
+Débit    (EUR): 1 562,00
++--------------------------------------------------------------------+
+Date          : 03/05
+Libellé       : ACTI POUR 65011025395
+                VIREMENT EMIS
+Débit    (EUR): 100,00
++--------------------------------------------------------------------+
+Date          : 03/05
+Libellé       : RBT. SECURICOMPTE
+                REGUL OPE DEBITRICES
+Crédit   (EUR): 300,00
++--------------------------------------------------------------------+
+Date          : 03/05
+Libellé       : MGP*LEETCHI.COM L - 2449 L 02/05
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,00
++--------------------------------------------------------------------+
+Date          : 03/05
+Libellé       : Navigo Annuel - GIE COMUTITRES
+                PRELEVMNT
+                Navigo Annuel
+                FR42ZZZ457385
+                FR42ZZZ457385000020394709-1040058
+Débit    (EUR): 73,00
++--------------------------------------------------------------------+
+Date          : 03/05
+Libellé       : COTIS COMPTE A COMPOSER
+                PRELEVEMENT
+Débit    (EUR): 7,74
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : GOOGLE Google Storage Lond 28/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,99
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : BAYEN MAREE PARIS 17       30/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,77
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : FUT ET A MESURE PARIS      28/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : FUT ET A MESURE PARIS      28/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : ChauffeurPrive 75 PARIS    28/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 8,00
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : UN ZEBRE A MONTM PARIS     28/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 32,00
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : FNAC TERNES PARIS 17       30/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 24,10
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : CLEMENTINE CAFE CONFLANS S 29/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : GOOGLE Le Figaro 75 PARIS  28/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 2,99
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : TABAC DU MATIN PARIS       28/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 21,00
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : LCL PARIS MAC MA 30/04 12H17
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : ALBERT STOOPS GERANCE
+                PRELEVMNT
+                Appel MAI
+                FR46ZZZ438107
+                T0104L000037337N000001525
+Débit    (EUR): 94,40
++--------------------------------------------------------------------+
+Date          : 02/05
+Libellé       : Orange
+                PRELEVMNT
+                Votre abonnement mobile: 06XXXXX532
+                (facture: 5554798492)
+                FR18ZZZ002305
+                M0032121110
+Débit    (EUR): 77,99
++--------------------------------------------------------------------+
+Date          : 27/04
+Libellé       : AVAILPRO SAS 2017-04-30 VIR DELF
+                VIREMENT EN VOTRE FAVEUR
+                SIRIONA
+                2017-04-30  VIR DELFOUR
+Crédit   (EUR): 2 983,71
++--------------------------------------------------------------------+
+Date          : 27/04
+Libellé       : MORNING v NfaX8euGD2 nicolas.dfr
+                VIREMENT EN VOTRE FAVEUR
+                votre code: 6162
+                v NfaX8euGD2 nicolas.dfr gmail.com
+Crédit   (EUR): 0,01
++--------------------------------------------------------------------+
+Date          : 27/04
+Libellé       : Burger King PARIS          26/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 14,10
++--------------------------------------------------------------------+
+Date          : 27/04
+Libellé       : MORNING SAINT ELIX LE      26/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 50,00
++--------------------------------------------------------------------+
+Date          : 27/04
+Libellé       : BIERRE ET MALT PARIS       26/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 29,00
++--------------------------------------------------------------------+
+Date          : 26/04
+Libellé       : CE IDF P ISSY LE 25/04 09H09
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 25/04
+Libellé       : CARREFOUR DESNOU PARIS 15  24/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,61
++--------------------------------------------------------------------+
+Date          : 25/04
+Libellé       : MAMIE BURGER PARIS         24/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,00
++--------------------------------------------------------------------+
+Date          : 25/04
+Libellé       : VIREMENT EN VOTRE FAVEUR
+                Virement depuis Ma Banque DELFOU
+Crédit   (EUR): 1 000,00
++--------------------------------------------------------------------+
+Date          : 24/04
+Libellé       : GOOGLE London              24/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 2,99
++--------------------------------------------------------------------+
+Date          : 24/04
+Libellé       : POINTE DU GROIN PARIS      21/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 24/04
+Libellé       : ROYAL PEREIRE PARIS 17     23/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 36,40
++--------------------------------------------------------------------+
+Date          : 24/04
+Libellé       : CARBURANTS MORI BOULOGNE B 22/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 24/04
+Libellé       : LCL PARIS MAC MA 23/04 10H57
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 24/04
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88265039184642/01/UCM932170421/PR
+                EDICAPREDISSIME 9
+                PRIME PERIOD. UCIX 2UCIX 2
+                FR88ZZZ237434
+                00/73001101248/20032017/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 21/04
+Libellé       : GOLD DUAL DI
+                COTISATION
+Débit    (EUR): 108,25
++--------------------------------------------------------------------+
+Date          : 20/04
+Libellé       : PIERRE MARCOLIN PARIS ER   19/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 35,00
++--------------------------------------------------------------------+
+Date          : 19/04
+Libellé       : DIRECTION GENERALE DES FINANCES PUB
+                PRELEVMNT
+                920430343355448240 111
+                MENM192029663841043  IMPOT
+                IR
+                FR46ZZZ005002
+                FR46ZZZ005002M192029663841
+Débit    (EUR): 429,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : T2C AUTOMATES A CLERMONT F 14/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 3,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : SARL DEL SOL CAF CLERMONT  15/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : DEL SOL CAFE CLERMONT FERR 15/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 17,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : CRF CITY CLERMONT FERRAND  15/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,49
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : L'OVAL CLERMONT FERRA      15/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,90
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : LE VESUVE CLERMONT FERRAND 15/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 46,25
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : LES BERTHOM CLERMONT FERRA 14/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : LES BERTHOM CLERMONT FERRA 15/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : LES BERTHOM CLERMONT FERRA 15/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 3,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : LES BERTHOM CLERMONT FERRA 14/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : LES BERTHOM CLERMONT FERRA 14/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : LCL PARIS BONNE  14/04 16H04
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : CLT FERRAND MTFE 15/04 14H37
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : CLERMONT FERRA   15/04 18H57
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 18/04
+Libellé       : EDF clients particuliers
+                PRELEVMNT
+                Numero de client : 6008318574 - Num
+                ero de compte : xxx 004021510590
+                FR47EDF001007
+                MM9760083185740001
+Débit    (EUR): 35,00
++--------------------------------------------------------------------+
+Date          : 14/04
+Libellé       : MONOPRIX 0324 PARIS2041625 13/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 7,00
++--------------------------------------------------------------------+
+Date          : 14/04
+Libellé       : PHIE CENTRALE PARIS        13/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 9,29
++--------------------------------------------------------------------+
+Date          : 13/04
+Libellé       : LA CROISSANTERIE PARIS     12/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 1,90
++--------------------------------------------------------------------+
+Date          : 13/04
+Libellé       : HARICOT DROUOT PARIS       12/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,00
++--------------------------------------------------------------------+
+Date          : 13/04
+Libellé       : LCL PARIS BONNE  12/04 12H02
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 40,00
++--------------------------------------------------------------------+
+Date          : 11/04
+Libellé       : PICARD SURGELES 75PARIS 31 10/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,70
++--------------------------------------------------------------------+
+Date          : 11/04
+Libellé       : SNCF INTERNET PARIS 9      10/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 139,20
++--------------------------------------------------------------------+
+Date          : 11/04
+Libellé       : B - PREDICA
+                PRELEVMNT
+                DE88284000000415/01/UCMA32170409/PR
+                EDICACAP DECOUVERTE
+                PRIME PERIOD. UCDEC1UCDEC1
+                FR88ZZZ237434
+                /62000269770/26102013/01
+Débit    (EUR): 150,00
++--------------------------------------------------------------------+
+Date          : 10/04
+Libellé       : CARREFOUR PARIS            09/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,94
++--------------------------------------------------------------------+
+Date          : 10/04
+Libellé       : CAVES VIEIL ABRE ST GERMAI 08/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 15,00
++--------------------------------------------------------------------+
+Date          : 10/04
+Libellé       : FNAC TERNES PARIS 17       08/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 24,10
++--------------------------------------------------------------------+
+Date          : 07/04
+Libellé       : HARICOT DROUOT PARIS       07/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 45,00
++--------------------------------------------------------------------+
+Date          : 07/04
+Libellé       : LCL PARIS GARE D 06/04 18H18
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 60,00
++--------------------------------------------------------------------+
+Date          : 07/04
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT ASSURANCE TOUS MOBILES 7078
+                781907
+                FR41ZZZ272230
+                000000000000000000005320101907PCK
+Débit    (EUR): 9,98
++--------------------------------------------------------------------+
+Date          : 06/04
+Libellé       : M HEDOUX ROMAIN AIRBNB 1ERE SEMA
+                VIREMENT EN VOTRE FAVEUR
+                AIRBNB 1ERE SEMAINE JAPON
+                AIRBNB 1ERE SEMAINE JAPON
+Crédit   (EUR): 295,00
++--------------------------------------------------------------------+
+Date          : 06/04
+Libellé       : AIRBNB 14158005959         05/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 590,00
++--------------------------------------------------------------------+
+Date          : 05/04
+Libellé       : VIREMENT EN VOTRE FAVEUR
+                DE DELFOUR NICOLAS
+Crédit   (EUR): 400,00
++--------------------------------------------------------------------+
+Date          : 05/04
+Libellé       : CREDIT AGRICOLE DE PARIS ET IDF
+                PRELEVMNT
+                COTISATION D'ASSURANCE PACIFICA DU
+                CONTRAT MULTIRISQUES HABITATION 727
+                1273907
+                FR41ZZZ272230
+                00000000000000000000005665726907PCK
+Débit    (EUR): 9,12
++--------------------------------------------------------------------+
+Date          : 05/04
+Libellé       : NEONESS
+                PRELEVMNT
+                FR52ZZZ532768
+                RUM25614501
+Débit    (EUR): 27,00
++--------------------------------------------------------------------+
+Date          : 05/04
+Libellé       : MENS. P.E.L         04/17
+                VIREMENT EMIS
+Débit    (EUR): 45,00
++--------------------------------------------------------------------+
+Date          : 04/04
+Libellé       : MONOPRIX 0324 PARIS2041625 03/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 18,93
++--------------------------------------------------------------------+
+Date          : 04/04
+Libellé       : L'IVRESS PARIS             03/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 5,70
++--------------------------------------------------------------------+
+Date          : 04/04
+Libellé       : LCL PARIS BONNE  03/04 18H26
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 30,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : VIREMENT EMIS
+                WEB DELFOUR NICOLAS
+Débit    (EUR): 1 000,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : VIREMENT EMIS
+                WEB DELFOUR NICOLAS
+Débit    (EUR): 1 000,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : S O 02 PARIS 2             01/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 18,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : S O 02 PARIS 2             02/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 18,50
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : S O SC1 PARIS 2            01/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 10,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : S O SC1 PARIS 2            01/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 12,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : LE FAUBOURG 34 PARIS       31/03
+                PAIEMENT PAR CARTE
+Débit    (EUR): 29,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : ROUGEVERRE MAUB PARIS      31/03
+                PAIEMENT PAR CARTE
+Débit    (EUR): 28,90
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : MEDIAPART PARIS            01/04
+                PAIEMENT PAR CARTE
+Débit    (EUR): 11,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : LA POSTE BOUTIQU PARIS CED 31/03
+                PAIEMENT PAR CARTE
+Débit    (EUR): 6,97
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : PARIS BOURSE     01/04 23H01
+                RETRAIT AU DISTRIBUTEUR
+Débit    (EUR): 20,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : Navigo Annuel - GIE COMUTITRES
+                PRELEVMNT
+                Navigo Annuel
+                FR42ZZZ457385
+                FR42ZZZ457385000020394709-1040058
+Débit    (EUR): 73,00
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : ALBERT STOOPS GERANCE
+                PRELEVMNT
+                Appel AVRIL
+                FR46ZZZ438107
+                T0104L000037337N000001525
+Débit    (EUR): 731,66
++--------------------------------------------------------------------+
+Date          : 03/04
+Libellé       : COTIS COMPTE A COMPOSER
+                PRELEVEMENT
+Débit    (EUR): 7,74
++--------------------------------------------------------------------+
+
+
+
+
+
+

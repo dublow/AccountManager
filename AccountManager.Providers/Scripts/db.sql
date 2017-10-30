@@ -1,0 +1,15 @@
+﻿CREATE TABLE IF NOT EXISTS operation (
+	id TEXT PRIMARY KEY NOT NULL,
+	date TEXT NOT NULL, 
+	libelle TEXt NOT NULL, 
+	amount VREAL NOT NULL, 
+	isCredit INT NOT NULL);
+
+CREATE TABLE IF NOT EXISTS category (
+	id TEXT PRIMARY KEY NOT NULL, 
+	name TEXT NOT NULL);
+
+CREATE TABLE IF NOT EXISTS operationcategory (
+	operationid TEXT PRIMARY KEY NOT NULL,
+	categoryid TEXT NOT NULL
+);

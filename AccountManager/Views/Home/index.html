@@ -1,0 +1,367 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Stat</title>
+	
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<link rel="stylesheet" href="/Contents/sb-admin-2.css">
+<link rel="stylesheet" href="/Contents/metisMenu/metisMenu.min.css">
+<link rel="stylesheet" href="/Contents/morrisjs/morris.css">
+<link rel="stylesheet" href="/Contents/font-awesome/css/font-awesome.min.css">
+</head>
+<body>
+<div id="wrapper">
+<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">SB Admin v2.0</a>
+    </div>
+    <!-- /.navbar-header -->
+
+			
+    <!-- /.navbar-top-links -->
+
+    <div class="navbar-default sidebar" role="navigation">
+        <div class="sidebar-nav navbar-collapse">
+            <ul class="nav in" id="side-menu">
+                <li class="sidebar-search">
+                    <div class="input-group custom-search-form">
+                        &nbsp;
+                        &nbsp;
+                    </div>
+                    <!-- /input-group -->
+                </li>
+                <li>
+                    <a href="/" class="active"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Opérations<span class="fa arrow"></span></a>
+                    <ul class="nav nav-second-level collapse">
+                        <li>
+                            <a href="flot.html">Non catégorisées</a>
+                        </li>
+                        <li>
+                            <a href="morris.html">Catégorisées</a>
+                        </li>
+                    </ul>
+                    <!-- /.nav-second-level -->
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Catégories<span class="fa arrow"></span></a>
+                    <ul class="nav nav-second-level collapse">
+                        <li>
+                            <a href="flot.html">Ajouter une catégorie</a>
+                        </li>
+                        <li>
+                            <a href="morris.html">Ajouter mots clés</a>
+                        </li>
+                    </ul>
+                    <!-- /.nav-second-level -->
+                </li>
+            </ul>
+        </div>
+        <!-- /.sidebar-collapse -->
+    </div>
+    <!-- /.navbar-static-side -->
+</nav>		
+<div id="page-wrapper" style="min-height: 352px;">
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Dashboard</h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<!-- /.row -->
+<div class="row">
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-money fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge" data-bind="text:sold"></div>
+                        <div>Solde</div>
+                    </div>
+                </div>
+            </div>
+            <a href="#">
+                <div class="panel-footer">
+                    <span class="pull-left">Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-red">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-chevron-down fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge" data-bind="text:spents"></div>
+                        <div>Dépenses</div>
+                    </div>
+                </div>
+            </div>
+            <a href="#">
+                <div class="panel-footer">
+                    <span class="pull-left">Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-green">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-chevron-up fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge" data-bind="text:receipts"></div>
+                        <div>Recettes</div>
+                    </div>
+                </div>
+            </div>
+            <a href="#">
+                <div class="panel-footer">
+                    <span class="pull-left">Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6">
+        <div class="panel panel-yellow">
+            <div class="panel-heading">
+                <div class="row">
+                    <div class="col-xs-3">
+                        <i class="fa fa-percent fa-5x"></i>
+                    </div>
+                    <div class="col-xs-9 text-right">
+                        <div class="huge" data-bind="text:left"></div>
+                        <div>% Restant</div>
+                    </div>
+                </div>
+            </div>
+            <a href="#">
+                <div class="panel-footer">
+                    <span class="pull-left">Details</span>
+                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                    <div class="clearfix"></div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+<!-- /.row -->
+<div class="row">
+<div class="col-lg-8">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <i class="fa fa-bar-chart-o fa-fw"></i> Recettes / Dépenses anuelles
+        </div>
+        <!-- /.panel-heading -->
+        <div class="panel-body">
+            <div id="morris-area-chart" style="position: relative; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+            </div>
+        </div>
+        <!-- /.panel-body -->
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <i class="fa fa-bar-chart-o fa-fw"></i> Dépenses par catégories
+            <div class="pull-right">
+                <div class="btn-group">
+                    <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
+                        Mois
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu pull-right" role="menu">
+                        <li><a href="#">Janvier</a></li>
+                        <li><a href="#">Février</a></li>
+                        <li><a href="#">Mars</a></li>
+                        <li><a href="#">Avril</a></li>
+                        <li><a href="#">Mai</a></li>
+                        <li><a href="#">Juin</a></li>
+                        <li><a href="#">Juillet</a></li>
+                        <li><a href="#">Août</a></li>
+                        <li><a href="#">Septembre</a></li>
+                        <li><a href="#">Octobre</a></li>
+                        <li><a href="#">Novembre</a></li>
+                        <li><a href="#">Décembre</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /.panel-heading -->
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-hover table-striped">
+                            <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Montant</th>
+                            </tr>
+                            </thead>
+                            <tbody data-bind="foreach: spentsByCategories">
+                            <tr>
+                                <td data-bind="text: category"></td>
+                                <td data-bind="text: amount + '€'"></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!-- /.table-responsive -->
+                </div>
+                <!-- /.col-lg-4 (nested) -->
+                <div class="col-lg-8">
+                    <div id="morris-donut-chart"></div>
+                </div>
+                <!-- /.col-lg-8 (nested) -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.panel-body -->
+    </div>
+					
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <i class="fa fa-bar-chart-o fa-fw"></i> Détail annuel 
+        </div>
+        <!-- /.panel-heading -->
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-hover table-striped">
+                            <thead>
+                                <tr>
+                                    <th>&nbsp;</th>
+                                    <!-- ko foreach: allByDates -->
+                                    <th data-bind="text: $data"></th>
+                                    <!-- /ko -->
+                                <tr>
+                            </thead>
+                            <tbody>
+                                <!-- ko foreach: allByCategories -->
+                                <tr>
+                                    <td data-bind="text: category"></td>
+                                    <!-- ko foreach: amounts -->
+                                    <td data-bind="text:amount"></td>
+                                <!-- /ko -->
+                            </tr>
+                            <!-- /ko -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <!-- /.table-responsive -->
+                </div>
+                <!-- /.col-lg-4 (nested) -->
+								
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.panel-body -->
+    </div>
+					
+</div>
+<!-- /.col-lg-8 -->
+<div class="col-lg-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <i class="fa fa-bell fa-fw"></i> Dernières opérations
+        </div>
+        <!-- /.panel-heading -->
+        <div class="panel-body">
+            <div class="list-group" data-bind="foreach: lastOperations">
+                <a href="#" class="list-group-item">
+                    <i class="fa fa-chevron-up fa-fw" data-bind="visible: isCredit" style="color:green"></i>
+                    <i class="fa fa-chevron-down fa-fw" data-bind="visible: !isCredit" style="color:red"></i>
+                    <span data-bind="text: date"></span> - 
+                    <span data-bind="text: libelle"></span>
+                    <span class="pull-right text-muted small">
+                        <em data-bind="text:amount"></em>€
+                    </span>
+                </a>
+                
+            </div>
+            <!-- /.list-group -->
+            <a href="#" class="btn btn-default btn-block">Voir tout</a>
+        </div>
+        <!-- /.panel-body -->
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <i class="fa fa-bar-chart-o fa-fw"></i> Dépenses / Recettes
+            <div class="pull-right">
+                <div class="btn-group">
+                    <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
+                        Mois
+                        <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu pull-right" role="menu">
+                        <li><a href="#">Janvier</a></li>
+                        <li><a href="#">Février</a></li>
+                        <li><a href="#">Mars</a></li>
+                        <li><a href="#">Avril</a></li>
+                        <li><a href="#">Mai</a></li>
+                        <li><a href="#">Juin</a></li>
+                        <li><a href="#">Juillet</a></li>
+                        <li><a href="#">Août</a></li>
+                        <li><a href="#">Septembre</a></li>
+                        <li><a href="#">Octobre</a></li>
+                        <li><a href="#">Novembre</a></li>
+                        <li><a href="#">Décembre</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+            <div id="morris-donut-chart"><svg height="342" version="1.1" width="479" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="overflow: hidden; position: relative; left: -0.328125px;"><desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.2.0</desc><defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs><path fill="none" stroke="#0b62a4" d="M239.328125,282.5A109,109,0,0,0,342.2501898142984,209.38939361930437" stroke-width="2" opacity="0" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 0;"></path><path fill="#0b62a4" stroke="#ffffff" d="M239.328125,285.5A112,112,0,0,0,345.08290719450844,210.377175095065L388.99002658776413,225.6877879693554A158.5,158.5,0,0,1,239.328125,332Z" stroke-width="3" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><path fill="none" stroke="#3980b5" d="M342.2501898142984,209.38939361930437A109,109,0,0,0,141.54881750765188,125.33147265779414" stroke-width="2" opacity="1" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1;"></path><path fill="#3980b5" stroke="#ffffff" d="M345.08290719450844,210.377175095065A112,112,0,0,0,138.85764390694504,124.00573337314628L92.6591637614778,101.24720898669122A163.5,163.5,0,0,1,393.71122222144754,227.33409042895653Z" stroke-width="3" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><path fill="none" stroke="#679dc6" d="M141.54881750765188,125.33147265779414A109,109,0,0,0,239.29388164063926,282.49999462106564" stroke-width="2" opacity="0" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 0;"></path><path fill="#679dc6" stroke="#ffffff" d="M138.85764390694504,124.00573337314628A112,112,0,0,0,239.2929391628587,285.4999944730216L239.27833075725985,331.9999921783386A158.5,158.5,0,0,1,97.14445309598918,103.45677446110433Z" stroke-width="3" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></path><text x="239.328125" y="163.5" text-anchor="middle" font-family="&quot;Arial&quot;" font-size="15px" stroke="none" fill="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: middle; font-family: Arial; font-size: 15px; font-weight: 800;" font-weight="800" transform="matrix(1.7026,0,0,1.7026,-168.1505,-122.6067)" stroke-width="0.5873311671763506"><tspan dy="6" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">In-Store Sales</tspan></text><text x="239.328125" y="183.5" text-anchor="middle" font-family="&quot;Arial&quot;" font-size="14px" stroke="none" fill="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: middle; font-family: Arial; font-size: 14px;" transform="matrix(2.2708,0,0,2.2708,-304.2653,-223.0313)" stroke-width="0.4403669724770642"><tspan dy="5" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">30</tspan></text></svg></div>
+        </div>
+        <!-- /.panel-body -->
+    </div>
+    <!-- /.panel -->
+					
+</div>
+<!-- /.col-lg-4 -->
+</div>-->
+<!-- /.row -->
+</div>		
+	
+</div>
+<p data-bind="text:name">v</p>
+<input data-bind="textInput: name, valueUpdate: afterkeydown"/>
+<p data-bind="text:name"></p>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.2/knockout-min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<script src="/Contents/metisMenu/metisMenu.min.js"></script>
+	<script src="/Contents/raphael/raphael.min.js"></script>
+	<script src="/Contents/morrisjs/morris.min.js"></script>
+    <script src="/Contents/sb-admin-2.js"></script>
+    <script src="/Contents/Home/index.js"></script>
+
+</body>
+</html>
