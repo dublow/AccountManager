@@ -24,7 +24,7 @@ var Index = (function() {
                     self.createChart(response.anualSpentsReceipts);
                     self.lastOperations(response.lastOperations);
                     self.spentsByCategories(response.spentsByCategories);
-                    self.allByDates(response.allByDateAndCategories.dates);
+                    /*self.allByDates(response.allByDateAndCategories.dates);
 
                     $.each(response.allByDateAndCategories.categories, function (index, item) {
                         var category = item.category;
@@ -34,7 +34,7 @@ var Index = (function() {
                         self.allByCategories.push({ category: category, amounts: self.amounts });
                     });
 
-                    var array = $.map(response.spentsByCategories,
+                    */var array = $.map(response.spentsByCategories,
                         function(item) {
                             return {
                                 label: item.category,

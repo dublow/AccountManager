@@ -32,7 +32,7 @@ namespace Helper.Modules
                 var annualSpents = ss.GetAnnualSpent(2017);
                 var annualReceipts = ss.GetAnnualReceipts(2017);
                 var spentsByCategories = ss.GetByCategories(DateRange.Current);
-                var allByDateAndCategories = ss.GetByDateAndCategories(2017);
+                //var allByDateAndCategories = ss.GetByDateAndCategories(2017);
 
 
                 var anualSpentsReceipts = from aR in annualReceipts
@@ -53,7 +53,7 @@ namespace Helper.Modules
                     anualSpentsReceipts,
                     lastOperations,
                     spentsByCategories,
-                    allByDateAndCategories
+                    //allByDateAndCategories
                 });
             };
         }
