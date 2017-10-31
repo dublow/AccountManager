@@ -1,12 +1,9 @@
 ﻿using AccountManager.Providers.Models;
 using AccountManager.Providers.Persistences.Models;
-using AccountManager.Providers.Persistences.Providers;
 using AccountManager.Providers.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AccountManager.Providers.Persistences
 {
@@ -21,52 +18,46 @@ namespace AccountManager.Providers.Persistences
             _operationCategories = operationCategories;
         }
 
-        public object GetSold()
+        public decimal GetSold()
         {
             return _account.Sold;
         }
 
-        public object GetSpents(DateRange dateRange)
+        public decimal GetSpents(DateRange dateRange)
         {
             return GetAmountByFilter(dateRange, isCredit => !isCredit);
         }
 
-        public object GetReceipts(DateRange dateRange)
+        public decimal GetReceipts(DateRange dateRange)
         {
             return GetAmountByFilter(dateRange, isCredit => isCredit);
         }
 
-        public object GetProfitability(DateRange dateRange)
-        {
-            var receipts = (float)GetReceipts(dateRange);
-            var spent = (float)GetSpents(dateRange);
-
-            return (int)Math.Round((double)(100 * receipts) / spent);
-        }
+        
 
         public object GetLeft()
         {
-            var sold = (float)GetSold();
-            var spent = (float)GetSpents(DateRange.Current);
+            var sold = GetSold();
+            var spent = GetSpents(DateRange.Current);
 
-            return (int)Math.Round((double)(100 * spent) / sold);
+            return (int)Math.Round((100 * spent) / sold);
         }
 
-        public IEnumerable<(string date, float value)> GetAnnualSpent(int year)
+        public IEnumerable<(string date, decimal value)> GetAnnualSpent(int year)
         {
             return GetAnnualAmountByFilter(year, isCredit => !isCredit);
         }
 
-        public IEnumerable<(string date, float value)> GetAnnualReceipts(int year)
+        public IEnumerable<(string date, decimal value)> GetAnnualReceipts(int year)
         {
             return GetAnnualAmountByFilter(year, isCredit => isCredit);
         }
 
         public object GetLastOperations()
         {
-            return _operationCategories
+            return _operationCategories.OrderByDescending(x => x.Date)
                 .Select(x => new { isCredit = x.IsCredit, date = x.Date.ToString("yyyy-MM-dd"), libelle = x.Libelle, amount = x.Amount })
-                .OrderByDescending(x => x.date).Take(9).ToList();
+                .Take(9).ToList();
         }
 
         public IEnumerable<object> GetByCategories(DateRange dateRange)
@@ -75,14 +66,14 @@ namespace AccountManager.Providers.Persistences
             foreach (var category in _operationCategories.Select(x => x.Name).Distinct().OrderBy(x => x))
             {
                 if (!_operationCategories
-                    .Any(x => DateRange.Parse(x.Date) == dateRange && !x.IsCredit && x.Name == category))
+                    .Any(x => DateRange.Parse(x.Date) == dateRange && x.Name == category))
                 {
                     unkownCategories.Add(new { category = category, amount = 0 });
                 }
             }
 
             unkownCategories.AddRange(_operationCategories
-                .Where(x => DateRange.Parse(x.Date) == dateRange && !x.IsCredit)
+                .Where(x => DateRange.Parse(x.Date) == dateRange)
                 .GroupBy(x => x.Name, value => value.Amount)
                 .Select(x => new { category = x.Key, amount = x.Sum() }).OrderBy(x => x.category));
 
@@ -107,14 +98,14 @@ namespace AccountManager.Providers.Persistences
                 }, value=> value).Select(z => z) });
         }
 
-        private object GetAmountByFilter(DateRange dateRange, Predicate<bool> filter)
+        private decimal GetAmountByFilter(DateRange dateRange, Predicate<bool> filter)
         {
             return _operationCategories
                 .Where(x => DateRange.Parse(x.Date) == dateRange && filter(x.IsCredit))
                 .Sum(x => x.Amount);
         }
 
-        private IEnumerable<(string date, float value)> GetAnnualAmountByFilter(int year, Predicate<bool> filter)
+        private IEnumerable<(string date, decimal value)> GetAnnualAmountByFilter(int year, Predicate<bool> filter)
         {
             return YearRunner(year, dateRange =>
             {
@@ -145,7 +136,6 @@ namespace AccountManager.Providers.Persistences
                 {
                     yield return func(dr, category);
                 }
-                
             }
         }
     }

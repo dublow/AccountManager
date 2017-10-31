@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DefaultBootstrapper.cs" />
+    <Compile Include="Models\AddCategoryViewModel.cs" />
     <Compile Include="Modules\HomeModule.cs" />
+    <Compile Include="Modules\OperationModule.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -107,8 +109,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Contents\ko\knockout-3.4.2.debug.js" />
+    <EmbeddedResource Include="Views\Operation\uncategorized.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\master.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Operation\categorized.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
     <EmbeddedResource Include="Contents\home\index.js">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contents\operation\uncategorized.js">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
     <Content Include="Views\Home\index.html">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

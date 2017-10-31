@@ -1,0 +1,65 @@
+﻿@Master['master.html']
+@Section['Content']
+<div id="page-wrapper" style="min-height: 352px;">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Opérations non catégorisées</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <i class="fa fa-bell fa-fw"></i> Opérations
+                </div>
+                <div class="panel-body">
+                    <div class="list-group" data-bind="foreach: operations">
+                        <a href="#" class="list-group-item" data-bind="click: $parent.openModal">
+                            <i class="fa fa-chevron-up fa-fw" data-bind="visible: isCredit" style="color: green"></i>
+                            <i class="fa fa-chevron-down fa-fw" data-bind="visible: !isCredit" style="color: red"></i>
+                            <span data-bind="text: date"></span> -
+                            <span data-bind="text: libelle"></span>
+                            <span class="pull-right text-muted small">
+                                <em data-bind="text: amount"></em>€
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="modalTitle" data-bind="text: selectedLibelle"></h4>
+            </div>
+            <div class="modal-body">
+                <form class="form-inline">
+                    <div class="form-group">
+                        <select class="form-control"data-bind="selectedOptions: selectedCategoryId">
+                            <option selected disabled>Catégories</option>
+                            @Each
+                            <option value="@Current.Id">@Current.Name</option>
+                            @EndEach
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
+                <button type="button" class="btn btn-primary" data-bind="click: saveCategory">Sauvegarder</button>
+            </div>
+        </div>
+    </div>
+</div>
+@EndSection
+
+@Section['Scripts']
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.2/knockout-min.js"></script>
+<script src="/Contents/operation/uncategorized.js"></script>
+@EndSection

@@ -8,10 +8,10 @@ namespace AccountManager.Providers.Models
         public readonly string Id;
         public readonly DateTime Date;
         public readonly string Libelle;
-        public readonly float Amount;
+        public readonly decimal Amount;
         public readonly bool IsCredit;
 
-        public Operation(DateTime date, string libelle, float amount, bool isCredit)
+        public Operation(DateTime date, string libelle, decimal amount, bool isCredit)
         {
             Date = date;
             Libelle = libelle;

@@ -11,12 +11,12 @@ namespace AccountManager.Providers.Persistences.Models
         public readonly string OperationId;
         public readonly DateTime Date;
         public readonly string Libelle;
-        public readonly float Amount;
+        public readonly decimal Amount;
         public readonly bool IsCredit;
         public readonly string CategoryId;
         public readonly string Name;
 
-        public OperationCategoryDb(string operationId, DateTime date, string libelle, float amount, bool isCredit, string categoryId, string name)
+        public OperationCategoryDb(string operationId, DateTime date, string libelle, decimal amount, bool isCredit, string categoryId, string name)
         {
             OperationId = operationId;
             Date = date;

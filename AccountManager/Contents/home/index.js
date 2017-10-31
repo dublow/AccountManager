@@ -13,6 +13,8 @@ var Index = (function() {
         self.allByDates = ko.observableArray([]);
         self.allByCategories = ko.observableArray([]);
         self.amounts = ko.observableArray([]);
+        self.donut;
+        self.donutSpentsReceipts;
 
         self.getDatas = function() {
             $.get("/Stat",
@@ -21,20 +23,12 @@ var Index = (function() {
                     self.spents(response.spents);
                     self.receipts(response.receipts);
                     self.left(response.left);
-                    self.createChart(response.anualSpentsReceipts);
+                    self.chartAnualSpentsReceipts(response.anualSpentsReceipts);
                     self.lastOperations(response.lastOperations);
                     self.spentsByCategories(response.spentsByCategories);
-                    /*self.allByDates(response.allByDateAndCategories.dates);
+                    self.donutSpentsReceipts([{ label: "Dépense", value: response.spents }, { label: "Recette", value: response.receipts }]);
 
-                    $.each(response.allByDateAndCategories.categories, function (index, item) {
-                        var category = item.category;
-                        $.each(item.amounts, function (i, it) {
-                            self.amounts.push(it);
-                        });
-                        self.allByCategories.push({ category: category, amounts: self.amounts });
-                    });
-
-                    */var array = $.map(response.spentsByCategories,
+                    var array = $.map(response.spentsByCategories,
                         function(item) {
                             return {
                                 label: item.category,
@@ -42,11 +36,34 @@ var Index = (function() {
                             }
                         });
 
-                    self.createDonut(array);
+                    self.donutCategories(array);
                 });
         };
 
-        self.createChart = function(array) {
+        self.updateCategoriesByDate = function(month) {
+            $.get("/updateCategoriesByDate/" + month,
+                function (response) {
+                    self.spentsByCategories(response);
+                    var array = $.map(response,
+                        function (item) {
+                            return {
+                                label: item.category,
+                                value: item.amount
+                            }
+                        });
+
+                    self.donut.setData(array);
+                });
+        };
+
+        self.updatSpentsReceiptsByDate = function (month) {
+            $.get("/updateSpentsReceiptsByDate/" + month,
+                function (response) {
+                    self.donutSpentsReceipts.setData([{ label: "Dépense", value: response.spents }, { label: "Recette", value: response.receipts }]);
+                });
+        };
+
+        self.chartAnualSpentsReceipts = function(array) {
             new Morris.Bar({
                 // ID of the element in which to draw the chart.
                 element: 'morris-area-chart',
@@ -65,8 +82,8 @@ var Index = (function() {
             });
         };
 
-        self.createDonut = function (array) {
-            new Morris.Donut({
+        self.donutCategories = function (array) {
+            self.donut = new Morris.Donut({
                 // ID of the element in which to draw the chart.
                 element: 'morris-donut-chart',
                 // Chart data records -- each entry in this array corresponds to a point on
@@ -74,6 +91,18 @@ var Index = (function() {
                 data: array,
                 // The name of the data record attribute that contains x-values.
                 colors: ["#E0E4CD", "#6DD3E6", "#A9DBDB", "#F1843A", "#F8661D", "#E74970", "#532633", "#31DA9C", "#31ACE1"]
+            });
+        };
+
+        self.donutSpentsReceipts = function (array) {
+            self.donutSpentsReceipts = new Morris.Donut({
+                // ID of the element in which to draw the chart.
+                element: 'morris-donut-chart-spents-receipts',
+                // Chart data records -- each entry in this array corresponds to a point on
+                // the chart.
+                data: array,
+                // The name of the data record attribute that contains x-values.
+                colors: ["#D75051", "#5FB860"]
             });
         };
     }

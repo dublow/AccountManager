@@ -14,7 +14,7 @@ namespace Helper.Modules
     public class HomeModule : NancyModule
     {
         private readonly OperationRepository _operationRepository;
-        public HomeModule(IRepository<OperationDb> operationRepository, IRepository<CategoryDb> categoryRepository)
+        public HomeModule(Account account, IRepository<OperationDb> operationRepository, IRepository<CategoryDb> categoryRepository)
         {
             _operationRepository = (OperationRepository)operationRepository;
             Get["/"] = _ => View["index"];
@@ -23,11 +23,10 @@ namespace Helper.Modules
             {
                 var result = _operationRepository.GetAllCategorized();
 
-                var ss = new StatServices(new Account("Nicolas", 3000, true), result);
+                var ss = new StatServices(account, result);
                 var sold = ss.GetSold();
                 var spents = ss.GetSpents(DateRange.Current);
                 var receipts = ss.GetReceipts(DateRange.Current);
-                var ratio = ss.GetProfitability(DateRange.Current);
                 var left = ss.GetLeft();
                 var annualSpents = ss.GetAnnualSpent(2017);
                 var annualReceipts = ss.GetAnnualReceipts(2017);
@@ -48,13 +47,34 @@ namespace Helper.Modules
                     sold,
                     spents,
                     receipts,
-                    ratio,
                     left,
                     anualSpentsReceipts,
                     lastOperations,
                     spentsByCategories,
                     //allByDateAndCategories
                 });
+            };
+
+            Get["/updateCategoriesByDate/{month}"] = parameters =>
+            {
+                var result = _operationRepository.GetAllCategorized();
+                var ss = new StatServices(account, result);
+
+                var model = ss.GetByCategories(DateRange.Parse(new DateTime(2017, (int) parameters.month, 1)));
+
+                return Response.AsJson(model);
+            };
+
+            Get["/updateSpentsReceiptsByDate/{month}"] = parameters =>
+            {
+                var result = _operationRepository.GetAllCategorized();
+                var ss = new StatServices(account, result);
+
+                var dateRange = DateRange.Parse(new DateTime(2017, (int) parameters.month, 1));
+                var spents = ss.GetSpents(dateRange);
+                var receipts = ss.GetReceipts(dateRange);
+
+                return Response.AsJson(new {spents = spents, receipts = receipts});
             };
         }
     }

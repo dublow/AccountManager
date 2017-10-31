@@ -13,3 +13,8 @@ CREATE TABLE IF NOT EXISTS operationcategory (
 	operationid TEXT PRIMARY KEY NOT NULL,
 	categoryid TEXT NOT NULL
 );
+
+CREATE TABLE IF NOT EXISTS keywordscategory (
+	categoryid TEXT PRIMARY KEY NOT NULL,
+	keywords TEXT NOT NULL
+);

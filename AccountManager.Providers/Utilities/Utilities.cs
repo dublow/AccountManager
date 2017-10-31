@@ -7,6 +7,7 @@ namespace AccountManager.Providers.Utilities
     {
         public static string GenerateMd5(this string value)
         {
+            value = value.ToLower().Trim();
             byte[] bytes;
             using (MD5 md5 = MD5.Create())
             {

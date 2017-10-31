@@ -11,10 +11,10 @@ namespace AccountManager.Providers.Persistences.Models
         public readonly string Id;
         public readonly DateTime Date;
         public readonly string Libelle;
-        public readonly float Amount;
+        public readonly decimal Amount;
         public readonly bool IsCredit;
 
-        public OperationDb(string id, DateTime date, string libelle, float amount, bool isCredit)
+        public OperationDb(string id, DateTime date, string libelle, decimal amount, bool isCredit)
         {
             Id = id;
             Date = date;

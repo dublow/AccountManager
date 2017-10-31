@@ -28,13 +28,18 @@ namespace AccountManager
 
             container.Register<IRepository<OperationDb>>(operationRepository);
             container.Register<IRepository<CategoryDb>>(categoryRepository);
-            container.Register<IReader<Operation>>(reader);
+            container.Register<IReader<AccountOperation>>(reader);
 
             db.CreateDb(ConfigurationManager.AppSettings["dbname"]);
-            reader.Read()
+
+            var r = reader.Read();
+
+            r.Operations
                 .Select(op => new OperationDb(op.Id, op.Date, op.Libelle, op.Amount, op.IsCredit))
                 .ToList()
                 .ForEach(op => operationRepository.Add(op));
+
+            container.Register(r.Account);
         }
     }
 }

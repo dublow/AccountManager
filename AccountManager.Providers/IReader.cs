@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace AccountManager.Providers
 {
-    public interface IReader<Tin> where Tin : IReadable
+    public interface IReader<out Tin> where Tin : IReadable
     {
-        IEnumerable<Tin> Read();
+        Tin Read();
     }
 }

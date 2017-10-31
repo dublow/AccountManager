@@ -74,7 +74,7 @@ namespace AccountManager.Providers.Persistences
                                 reader["id"].ToString(),
                                 DateTime.Parse(reader["date"].ToString()),
                                 reader["libelle"].ToString(),
-                                float.Parse(r.ToString(),
+                                decimal.Parse(r.ToString(),
                                 System.Globalization.NumberStyles.Any), int.Parse(reader["isCredit"].ToString()) == 1);
                         }
 
@@ -101,7 +101,7 @@ namespace AccountManager.Providers.Persistences
                                 reader["id"].ToString(),
                                 DateTime.Parse(reader["date"].ToString()),
                                 reader["libelle"].ToString(),
-                                float.Parse(r.ToString(),
+                                decimal.Parse(r.ToString(),
                                 System.Globalization.NumberStyles.Any), int.Parse(reader["isCredit"].ToString()) == 1);
                         }
                     } 
@@ -113,7 +113,7 @@ namespace AccountManager.Providers.Persistences
         {
             using (var cnx = (SQLiteConnection)_provider.Create())
             {
-                string sql = $"select * from operation  as o where not exists (select * from operationCategory as oc where oc.operationId = o.id)";
+                string sql = $"select * from operation  as o where id not in (select operationid from operationCategory as oc)";
 
                 using (var cmd = new SQLiteCommand(sql, cnx))
                 {
@@ -126,7 +126,7 @@ namespace AccountManager.Providers.Persistences
                             reader["id"].ToString(),
                             DateTime.Parse(reader["date"].ToString()),
                             reader["libelle"].ToString(),
-                            float.Parse(r.ToString(),
+                            decimal.Parse(r.ToString(),
                             System.Globalization.NumberStyles.Any), int.Parse(reader["isCredit"].ToString()) == 1);
                     }
                 }
@@ -151,7 +151,7 @@ namespace AccountManager.Providers.Persistences
                                 reader["operationId"].ToString(),
                                 DateTime.Parse(reader["date"].ToString()),
                                 reader["libelle"].ToString(),
-                                float.Parse(reader["amount"].ToString(), System.Globalization.NumberStyles.Any),
+                                decimal.Parse(reader["amount"].ToString(), System.Globalization.NumberStyles.Any),
                                 int.Parse(reader["isCredit"].ToString()) == 1,
                                 reader["categoryId"].ToString(),
                                 reader["name"].ToString()
@@ -181,7 +181,7 @@ namespace AccountManager.Providers.Persistences
                                 reader["operationId"].ToString(),
                                 DateTime.Parse(reader["date"].ToString()),
                                 reader["libelle"].ToString(),
-                                float.Parse(reader["amount"].ToString(), System.Globalization.NumberStyles.Any),
+                                decimal.Parse(reader["amount"].ToString(), System.Globalization.NumberStyles.Any),
                                 int.Parse(reader["isCredit"].ToString()) == 1,
                                 reader["categoryId"].ToString(),
                                 reader["name"].ToString()

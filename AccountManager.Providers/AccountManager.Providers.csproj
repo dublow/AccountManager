@@ -47,11 +47,14 @@
     <Compile Include="IReadable.cs" />
     <Compile Include="IReader.cs" />
     <Compile Include="Models\Account.cs" />
+    <Compile Include="Models\AccountOperation.cs" />
     <Compile Include="Models\Label.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Operation.cs" />
+    <Compile Include="Persistences\KeyWordCategoryRepository.cs" />
     <Compile Include="Persistences\IDatabasable.cs" />
     <Compile Include="Persistences\IRepository.cs" />
+    <Compile Include="Persistences\Models\KeyWordCategoryDb.cs" />
     <Compile Include="Persistences\Models\OperationCategoryDb.cs" />
     <Compile Include="Persistences\Models\CategoryDb.cs" />
     <Compile Include="Persistences\Models\OperationDb.cs" />

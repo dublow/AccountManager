@@ -1,0 +1,50 @@
+﻿@Master['master.html']
+@Section['Content']
+<div id="page-wrapper" style="min-height: 352px;">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Opérations catégorisées</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <i class="fa fa-bell fa-fw"></i> Opérations
+                </div>
+                <div class="panel-body">
+                    <div class="list-group">
+                        @Each
+                        <a href="/operation/edit/@Current.OperationId" class="list-group-item">
+                            
+                           
+                            <div class="row">
+                                <div class="col-md-1">
+                                    @If.IsCredit
+                                    <i class="fa fa-chevron-up fa-fw" style="color: green"></i>
+                                    @EndIf
+                                    @IfNot.IsCredit
+                                    <i class="fa fa-chevron-down fa-fw" style="color: red"></i>
+                                    @EndIf
+                                    <span class="label label-primary">@Current.Name</span>
+                                </div>
+                                <div class="col-md-11">
+                                    <span>@Current.Date</span> -
+                                    <span>@Current.Libelle</span>
+                                    <span class="pull-right text-muted small">
+                                        <em>@Current.Amount</em>€
+                                    </span>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                        </a>
+                        @EndEach
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@EndSection
