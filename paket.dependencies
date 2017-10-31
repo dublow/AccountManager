@@ -1,0 +1,10 @@
+source https://www.nuget.org/api/v2
+nuget EntityFramework 6.0.0 restriction: >= net461
+nuget Nancy 1.4.4 restriction: >= net461
+nuget Nancy.Hosting.Self 1.4.1 restriction: >= net461
+nuget SQLite 3.13.0 restriction: >= net461
+nuget System.Data.SQLite 1.0.105.2 restriction: >= net461
+nuget System.Data.SQLite.Core 1.0.105.2 restriction: >= net461
+nuget System.Data.SQLite.EF6 1.0.105.2 restriction: >= net461
+nuget System.Data.SQLite.Linq 1.0.105.2 restriction: >= net461
+nuget System.ValueTuple 4.4.0 restriction: >= net461

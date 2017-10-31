@@ -1,0 +1,16 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+    EntityFramework (6.0) - restriction: >= net461
+    Nancy (1.4.4) - restriction: >= net461
+    Nancy.Hosting.Self (1.4.1) - restriction: >= net461
+      Nancy (>= 1.4.1)
+    sqlite (3.13) - restriction: >= net461
+    System.Data.SQLite (1.0.105.2) - restriction: >= net461
+      System.Data.SQLite.Core (>= 1.0.105.2) - restriction: >= net20
+      System.Data.SQLite.EF6 (>= 1.0.105.2) - restriction: >= net40
+      System.Data.SQLite.Linq (>= 1.0.105.2) - restriction: >= net20
+    System.Data.SQLite.Core (1.0.105.2) - restriction: >= net461
+    System.Data.SQLite.EF6 (1.0.105.2) - restriction: >= net461
+      EntityFramework (>= 6.0) - restriction: >= net40
+    System.Data.SQLite.Linq (1.0.105.2) - restriction: >= net461
+    System.ValueTuple (4.4) - restriction: >= net461
